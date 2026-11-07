@@ -1,5 +1,5 @@
 <!--
-**to-coffee/to-coffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**coffee/coffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Uploading Cat.gif…]()
-
-
 -->
+
+<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/to-coffee/coffee/blob/main/Cat.gif" width="100%">
